@@ -46,4 +46,44 @@ export const Form = styled.form`
   }
 `;
 
-export const Repositories = styled.div``;
+export const Repositories = styled.div`
+  margin-top: 80px;
+  max-width: 700px;
+
+  a {
+    background: #fff;
+    border-radius: 5px;
+    width: 100%;
+    padding: 24px;
+    display: block;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+  }
+
+  img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+  }
+
+  div {
+    margin-left: 16px;
+
+    strong {
+      font-size: 20px;
+      color: #3d3d4d;
+    }
+
+    p {
+      font: 18px;
+      color: #a8a8b3;
+      margin-top: 4px;
+    }
+
+    svg {
+      margin-left: auto;
+    }
+  }
+`;
