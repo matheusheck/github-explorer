@@ -2,7 +2,7 @@ import express from 'express';
 import path from 'path';
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 17527;
 
 const publicPath = path.join(__dirname, '..', 'public');
 
