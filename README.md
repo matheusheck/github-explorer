@@ -3,6 +3,8 @@
 GitHub Explorer is an Single Page APP made in ReactJS to consume GitHub API out of the company front-end.
 You can keep updated to your favorites repositories now. 
 
+Check it online here: githubexplorer.heck.codes/
+
 ## Installation
 
 Use the package manager to install all dependencies and run the Available Scripts.
