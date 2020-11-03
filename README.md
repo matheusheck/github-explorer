@@ -1,4 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GitHub Explorer
+
+GitHub Explorer is an Single Page APP made in ReactJS to consume GitHub API out of the company front-end.
+You can keep updated to your favorites repositories now. 
+
+Check it online [here](http://githubexplorer.heck.codes/) .
+
+## Installation
+
+Use the package manager to install all dependencies and run the Available Scripts.
+
+Exemple:
+```bash
+yarn
+yarn start
+```
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 ## Available Scripts
 
@@ -37,8 +63,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
